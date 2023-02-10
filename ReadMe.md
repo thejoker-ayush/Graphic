@@ -4,7 +4,7 @@
 
 Here I would like to portray some graphic work that I have had the opportunity to contribute. 
 
-(Since this repository is made in February 2023, this contains only the past work that I could find from the past years and the work done thereafter. )
+(Since this repository is made in February 2023, this contains the relevant past work that I could find over the past years and the work done thereafter.)
 
 ### RECOGNISED WORK
 
