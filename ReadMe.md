@@ -34,7 +34,19 @@ This section presents the posters made for friends and family for their companie
 
 #### Rotary Club, Rotaract Clubs, GPM Developers, Personal
 
-
+<p float="left">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt1.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt2.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt3.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt4.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p1.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p2.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p3.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p4.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p5.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p6.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p7.jpg" width="100" height="140">
+</p>
 
 
 For other work like video editting and photos, you can check them out at my Instagram handle or Youtube Channel.
