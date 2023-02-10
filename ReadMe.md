@@ -22,31 +22,35 @@ This section presents the posters made for friends and family for their companie
 #### Naubahar Company
 
 <p float="left">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb1.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb2.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb3.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb4.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb5.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb6.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb7.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb8.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb1.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb2.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb3.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb4.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb5.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb6.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb7.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb8.jpg" width="100" height="135">
 </p>
 
 #### Rotary Club, Rotaract Clubs, GPM Developers, Personal
 
 <p float="left">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt1.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt2.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt3.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt4.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p1.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p2.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p3.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p4.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p5.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p6.jpg" width="100" height="140">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p7.jpg" width="100" height="140">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt1.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt2.jpeg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt3.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/rt4.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p1.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p2.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p3.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p4.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p5.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p6.jpg" width="100" height="135">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/p7.jpg" width="100" height="135">
 </p>
 
 
 For other work like video editting and photos, you can check them out at my Instagram handle or Youtube Channel.
+
+Instagram:  <a href="instagram.com/thejoker.ayush/"> instagram.com/thejoker.ayush/ </a>
+
+Youtube:    <a href="youtube.com/@thejoker-ayush"> youtube.com/@thejoker-ayush </a>
