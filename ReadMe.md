@@ -22,14 +22,14 @@ This section presents the posters made for friends and family for their companie
 #### Naubahar Company
 
 <p float="left">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb1.jpg" width="100" height="150">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb2.jpg" width="100" height="150">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb3.jpg" width="100" height="150">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb4.jpg" width="100" height="150">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb5.jpg" width="100" height="150">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb6.jpg" width="100" height="150">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb7.jpg" width="100" height="150">
-  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb8.jpg" width="100" height="150">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb1.jpg" width="100" height="130">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb2.jpg" width="100" height="130">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb3.jpg" width="100" height="130">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb4.jpg" width="100" height="130">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb5.jpg" width="100" height="130">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb6.jpg" width="100" height="130">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb7.jpg" width="100" height="130">
+  <img src="https://github.com/thejoker-ayush/Graphic/blob/c7b9bbac0c4f02f852ebbebebdc000e2385c1e0d/other/nb8.jpg" width="100" height="130">
 </p>
 
 #### Rotary Club, Rotaract Clubs, GPM Developers, Personal
