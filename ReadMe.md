@@ -14,7 +14,7 @@ Here, I would like to display the work that was appreciated on a large scale.
 <p float="left">
 <img src="https://github.com/thejoker-ayush/Graphic/blob/e59422f77f53815a7ca6bfd12c4193f8deddf68f/planetary%20sciences%20cover.jpg" width="200" height="300">
 <img src="https://github.com/thejoker-ayush/Graphic/blob/f88a8fa24a0cf4766bdcb1a5a796f2279211a686/news%20article.jpg" width="100" height="200">
-<\p>
+</p>
 
 ### OTHER WORK
 This section represents the posters made for friends and family for their companies and their personal use.
