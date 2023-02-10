@@ -9,7 +9,7 @@ Here I would like to portray some graphic work that I have had the opportunity t
 
 Here, I would like to display the work that was appreciated on a large scale.
 
-1. This is the Planetary Sciences Front Cover I made for Physical Research Laboratory, Ahmedabad that represents a pre-solar system containing a picture of CaI chrondite sample found in pre-solar grains.
+1. This is the Planetary Sciences Front Cover I made for Physical Research Laboratory, Ahmedabad that represents a pre-solar system containing a picture of CaI chrondite sample found in pre-solar grains. - recognised by the Scietific Community and the Gujrati Newspaper
 
 <p float="left">
 <img src="https://github.com/thejoker-ayush/Graphic/blob/e59422f77f53815a7ca6bfd12c4193f8deddf68f/planetary%20sciences%20cover.jpg" width="200" height="300">
